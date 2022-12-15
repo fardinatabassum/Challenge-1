@@ -6,7 +6,7 @@
 
 ## Installation
 
-Use the the URL: https://fardinatabassum.github.io/Challenge-1/#social-media-marketing to access the deployed webpage
+Use the the URL: https://fardinatabassum.github.io/Challenge-1-Horiseon-webpage to access the deployed webpage
 
 ## Usage 
 
