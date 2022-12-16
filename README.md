@@ -6,15 +6,13 @@
 
 ## Installation
 
-Use the the URL: https://fardinatabassum.github.io/Challenge-1/#social-media-marketing to access the deployed webpage
+Use the the URL: https://fardinatabassum.github.io/Challenge-1-Horiseon-webpage to access the deployed webpage
 
 ## Usage 
 
 The assets file contains the CSS sheet used to style the webpage as well as the images used and a screenshot of the final deployed webpage.
 
-```md
 ![Challenge-1-Horiseon-webpage](assets/images/screenshot.png) 
-```
 
 Opening the index.HTML file will direct users to the Horiseon webpage. Clicking on the different listed elements on the navigatioin bar will allow the user to jump to the particular section contaning further information about the selected topic. All the images have an accessibility feature that provides alternative text to the images that describe the contents of the image.  
 
